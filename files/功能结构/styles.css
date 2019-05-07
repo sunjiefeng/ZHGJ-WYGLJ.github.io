@@ -1,5 +1,6 @@
 ﻿body {
   margin:0px;
+  background-color:rgba(121, 121, 121, 1);
   background-image:none;
   position:static;
   left:auto;
@@ -12,7 +13,7 @@
   position:absolute;
   z-index:0;
 }
-#u60_img {
+#u64_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +21,7 @@
   width:2200px;
   height:1759px;
 }
-#u60 {
+#u64 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -28,7 +29,7 @@
   width:2200px;
   height:1759px;
 }
-#u60_text {
+#u64_text {
   border-width:0px;
   position:absolute;
   left:0px;
